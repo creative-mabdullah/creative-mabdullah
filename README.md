@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning New Technologies.
 
-- 👨‍💻 All of my projects are available at [(Portfolio)]([https://abdullahportolio.vercel.app/](https://mabdullah06.vercel.app/))
+- 👨‍💻 All of my projects are available at [(Portfolio)](https://mabdullah06.vercel.app/)
 
 - 📫 How to reach me **creative.mabdullah06@gmail.com**
 
