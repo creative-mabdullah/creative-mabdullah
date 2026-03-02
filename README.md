@@ -1,4 +1,4 @@
-![logo](https://github.com/MAbuBakar486/Hafiz-saifi/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![logo](https://raw.githubusercontent.com/creative-mabdullah/creative-mabdullah/refs/heads/main/bnr.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A Passionate SEO expert and digital specialist providing ecommerce solutions, web development, graphic design and video editing services from Pakistan</h3>
 
